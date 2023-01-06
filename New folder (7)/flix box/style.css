@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+
+.header{
+     background-color:  rgb(9, 155, 155);;
+     width: 98%;
+     height: 18vh;
+margin: 1%;
+ }
+ .info{
+     background-color:rgba(14, 245, 245, 0.432);;
+     width: 98%;
+     height: 60vh;
+     margin-left: 1%;
+     border: 3px;
+    
+ }
+  .boottom{
+      background-color: rgb(9, 155, 155);
+      width: 98%;
+     height: 18vh;
+     margin:1%;
+     border: 2px;
+    
+  }
+  .main{
+      display: flex;
+    
+  }
+  .first{
+      width: 20%;
+
+  }
+  .second{
+      width: 20%;
+
+  }
+  .third{
+      width:56%
+  }
+
+
+   

@@ -1,0 +1,29 @@
+
+<div id="theme">
+
+
+ 
+
+<button onclick="dark()"> dark Theme</button>
+<br><br>
+<button onclick="withe()"> light Theme</button>
+
+</div>
+
+
+
+
+
+ <script>
+          function dark(){
+    document.getElementById('theme').style.backgroundColor ="black";
+    document.getElementById('theme').style.color ="blue";
+    
+}
+function withe(){
+    document.getElementById('theme').style.backgroundColor ="white";
+    document.getElementById('theme').style.color ="black";
+    
+}
+
+        </script>
